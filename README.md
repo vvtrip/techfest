@@ -5,4 +5,4 @@ https://github.com/vvtrip/techfest/tree/gh-pages
 
 Here's the link to the website
 
-http://www.sparsh2k18.github.io
+http://sparsh2k18.github.io
